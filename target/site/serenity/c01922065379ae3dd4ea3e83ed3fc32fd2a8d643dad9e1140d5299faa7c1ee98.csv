@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Booking curd test","Test001","SUCCESS","2022-06-20T21:03:16.608+01:00[Europe/London]","0.0","3.38"
+"Booking curd test","Test002","SUCCESS","2022-06-20T21:03:20.004+01:00[Europe/London]","0.0","0.47"
+"Booking curd test","Test003","SUCCESS","2022-06-20T21:03:20.479+01:00[Europe/London]","0.0","0.47"
+"Booking curd test","Test004","SUCCESS","2022-06-20T21:03:20.950+01:00[Europe/London]","0.0","0.45"
+"Booking curd test","Test005","FAILURE","2022-06-20T21:03:21.396+01:00[Europe/London]","0.0","0.9"
